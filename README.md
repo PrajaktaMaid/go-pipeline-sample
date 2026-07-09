@@ -1,5 +1,4 @@
 #[Go Sample Pipelines in Harness
-
 Introduction
 ========================
 This is for Harness Certification 
